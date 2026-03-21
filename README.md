@@ -17,5 +17,5 @@ The project involves a detailed analysis of macroeconomic indicators, benchmarki
 ## Expected Outcomes
 The project aims to demonstrate the urgent need for bespoke support schemes and to develop a practical framework that offers a genuine chance of survival for micro-businesses amidst intensifying market competition.
 
-Author: Monika Griecs-Farkas
+### Author: Monika Griecs-Farkas 
 Technical Stack: Python, Excel, LaTeX (IEEE Format)
