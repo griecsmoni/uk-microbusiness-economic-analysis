@@ -1,4 +1,4 @@
-# uk-microbusiness-economic-analysis_empirical-study
+# uk-microbusiness-economic-analysis (empirical study)
 
 # Executive Summary: Supporting UK Micro-businesses During Economic Downturn
 ## Research Background and Objectives
